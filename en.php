@@ -275,7 +275,7 @@
                                 <img src="./media/tv.png" alt="TVTechnology" title="TVTechnology" />
                             </a>
                         </div>
-                        <div class="case-group align-center">
+                        <div class="case-group align-center justify-center">
                             <a href="https://pro.sony/en_CG/products/optical-disc/archiving-vatican-video-archive-digital-optical-disc-archive" target="_blank">
                                 <img src="./media/vatican.png" alt="Vaticano" title="Vaticano" />
                             </a>
