@@ -14,7 +14,7 @@
         <meta name="description" content="Tecnologias de la Luz México fue pionera en el almacenamiento de archivos en discos ópticos en México." />
         <meta name="keywords" content="Disco Óptico, Archivo Óptico, Sony, México, Almacenamiento" />
         <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet" />
-        <link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
+        <link rel="stylesheet" type="text/css" href="css/style.min.css" media="screen" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
     </head>
 </head>

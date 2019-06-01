@@ -14,7 +14,7 @@
         <meta name="description" content="Tecnologias de la Luz México was a pioneer in Optical Disc Archival Storage in Mexico" />
         <meta name="keywords" content="Optical, Disc, Archival, Sony, México, Storage" />
         <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet" />
-        <link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
+        <link rel="stylesheet" type="text/css" href="css/style.min.css" media="screen" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
     </head>
 </head>
